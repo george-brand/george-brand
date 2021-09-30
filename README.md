@@ -1,14 +1,17 @@
 ### 👋 Hi, I'm George Brand.
 
-<!--
+**<!--
 **george-brand/george-brand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm a Research Engineer at Altamira Technologies. 
+
+...
 
 🧰
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python logo" width="50" height="50" />
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
