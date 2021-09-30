@@ -6,7 +6,7 @@ I'm a Research Engineer at Altamira Technologies.
 
 🧰
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="Matlab logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="Matlab logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter logo" width="50" height="50" /> utps://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="GitHub logo" width="50" height="50" />
 <!--
 Here are some ideas to get you started:
 
