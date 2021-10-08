@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm George Brand.
 
-I'm a Research Engineer at Altamira Technologies.  I work on a wide range of data science projects.  I'm not a software developer but I am trying to maintain and learn new skills to keep up with modern technology.
+I'm a Research Engineer at Altamira Technologies.  I work on a wide range of data science projects.  I'm not a software developer but I am trying to learn new skills to keep up with modern technology.
 
 ---
 
